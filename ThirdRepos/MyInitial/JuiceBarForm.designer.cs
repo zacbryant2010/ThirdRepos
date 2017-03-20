@@ -239,7 +239,7 @@ namespace MyNameSpace
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(401, 71);
+            this.label5.Location = new System.Drawing.Point(401, 57);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(46, 13);
             this.label5.TabIndex = 3;
@@ -247,7 +247,7 @@ namespace MyNameSpace
             // 
             // quantityTextBox
             // 
-            this.quantityTextBox.Location = new System.Drawing.Point(461, 68);
+            this.quantityTextBox.Location = new System.Drawing.Point(461, 50);
             this.quantityTextBox.Name = "quantityTextBox";
             this.quantityTextBox.Size = new System.Drawing.Size(24, 20);
             this.quantityTextBox.TabIndex = 4;
